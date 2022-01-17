@@ -1,1 +1,0 @@
-# sitaxe-e-operadores
